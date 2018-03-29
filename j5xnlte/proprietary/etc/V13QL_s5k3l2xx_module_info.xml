@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <moduleinfo>
-	<coreversion value="H"/>
+	<coreversion value="V"/>
 	<resolution value="13"/>
 	<isp value="Q"/>
 	<sensormaker value="L"/>
-	<year value="I"/>
-	<month value="A"/>
+	<year value="J"/>
+	<month value="B"/>
 	<iteration value="01"/>
-	<modulemaker value="A"/>
+	<modulemaker value="S"/>
 	<modulemakerversion value="A"/>
 	<clnumber value="1000000"/>
 </moduleinfo>
